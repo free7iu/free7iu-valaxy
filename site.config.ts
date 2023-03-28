@@ -3,11 +3,11 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: '人去影故，落叶听秋。',
   author: {
-    name: '云游君',
+    name: '听秋',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: '以我为始 以我为终♪',
   social: [
     {
       name: 'RSS',
