@@ -1,13 +1,17 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://www.free7iu.com/',
   lang: 'zh-CN',
   title: '人去影故，落叶听秋。',
   author: {
     avatar: 'https://img.gejiba.com/images/0cd81282b277c01376d3380d49d48024.jpg',
     name: '听秋',
+    status:{
+      emoji:'💙',
+    },
   },
+  subtitle:'All at leaf',
   description: '以我为始 以我为终♪',
   social: [
     {
@@ -17,7 +21,7 @@ export default defineSiteConfig({
       color: 'orange',
     },
     {
-      name: 'QQ 群 1050458482',
+      name: 'QQ',
       link: 'http://wpa.qq.com/msgrd?v=3&uin=3137513092&site=qq&menu=yes',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
