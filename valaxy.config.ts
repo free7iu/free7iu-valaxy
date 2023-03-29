@@ -25,7 +25,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: true,
       },
     },
-    sidebar:{
+    Sidebar:{
       opacity:0.7,
     },
     pages: [
