@@ -25,7 +25,9 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: true,
       },
     },
-
+    sidebar:{
+      opacity:0.7,
+    },
     pages: [
       {
         name: '我的小伙伴们',
