@@ -15,9 +15,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   theme: 'yun',
 
   themeConfig: {
-    head:{
-      favicon:'https://img.gejiba.com/images/4e5ccc3431646c828f05c9322711211f.png',
-    },
+    favicon:'https://img.gejiba.com/images/4e5ccc3431646c828f05c9322711211f.png',
     banner: {
       enable: true,
       title: '人去影故，落叶听秋。',
