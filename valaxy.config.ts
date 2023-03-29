@@ -15,7 +15,6 @@ export default defineValaxyConfig<UserThemeConfig>({
   theme: 'yun',
 
   themeConfig: {
-
     banner: {
       enable: true,
       title: '人去影故，落叶听秋。',
