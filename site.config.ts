@@ -5,6 +5,7 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: '人去影故，落叶听秋。',
   author: {
+    avatar: 'https://img.gejiba.com/images/0cd81282b277c01376d3380d49d48024.jpg',
     name: '听秋',
   },
   description: '以我为始 以我为终♪',
@@ -17,17 +18,17 @@ export default defineSiteConfig({
     },
     {
       name: 'QQ 群 1050458482',
-      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
+      link: 'http://wpa.qq.com/msgrd?v=3&uin=3137513092&site=qq&menu=yes',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
+      link: 'https://github.com/free7iu',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
-    {
+    /*{
       name: '微博',
       link: 'https://weibo.com/jizhideyunyoujun',
       icon: 'i-ri-weibo-line',
@@ -38,31 +39,31 @@ export default defineSiteConfig({
       link: 'https://www.douban.com/people/yunyoujun/',
       icon: 'i-ri-douban-line',
       color: '#007722',
-    },
+    },*/
     {
       name: '网易云音乐',
-      link: 'https://music.163.com/#/user/home?id=247102977',
+      link: 'https://music.163.com/#/user/home?id=440652076',
       icon: 'i-ri-netease-cloud-music-line',
       color: '#C20C0C',
     },
-    {
+    /*{
       name: '知乎',
       link: 'https://www.zhihu.com/people/yunyoujun/',
       icon: 'i-ri-zhihu-line',
       color: '#0084FF',
-    },
+    },*/
     {
       name: '哔哩哔哩',
-      link: 'https://space.bilibili.com/1579790',
+      link: 'https://space.bilibili.com/490722823',
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    {
+    /*{
       name: '微信公众号',
       link: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
       icon: 'i-ri-wechat-2-line',
       color: '#1AAD19',
-    },
+    },*/
     {
       name: 'Twitter',
       link: 'https://twitter.com/YunYouJun',
@@ -77,7 +78,7 @@ export default defineSiteConfig({
     },
     {
       name: 'E-Mail',
-      link: 'mailto:me@yunyoujun.cn',
+      link: '3137513092@qq.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
@@ -99,19 +100,19 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: 'https://img.gejiba.com/images/a27f0fc4cd2439d5e6c83df6b53cd409.png',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
+        url: 'https://img.gejiba.com/images/fe89a4144ff24a3983bd1acff8fb9382.png',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: 'https://img.gejiba.com/images/d1910e405de1336ca0ac6d0caf56d899.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
