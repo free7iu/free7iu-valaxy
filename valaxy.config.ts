@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     bg_image:{
       url:'https://img.gejiba.com/images/c40b169b070eae05614a7dff1ff2fc99.webp'
-    }
+    },
     banner: {
       enable: true,
       title: '人去影故，落叶听秋。',
