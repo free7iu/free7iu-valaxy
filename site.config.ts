@@ -14,10 +14,7 @@ export default defineSiteConfig({
     url:'https:www.free7iu.com',
   },
   subtitle:'All at leaf',
-  description: {
-    name:'以我为始 以我为终♪',
-    color:'pink',
-  },
+  description: '以我为始 以我为终♪',
   social: [
     {
       name: 'RSS',

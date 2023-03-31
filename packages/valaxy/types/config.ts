@@ -55,10 +55,7 @@ export interface SiteConfig {
   /**
    * 站点描述
    */
-  description: {
-    name:string
-    color:string
-  }
+  description: string
   /**
    * The owner of this blog
    * @description 博客作者
