@@ -11,8 +11,12 @@ export default defineSiteConfig({
     status:{
       emoji:'💙',
     },
+    url:'https:www.free7iu.com',
   },
-  subtitle:'All at leaf',
+  subtitle:{
+    name:'All at leaf',
+    color:'pink',
+  },
   description: '以我为始 以我为终♪',
   social: [
     {

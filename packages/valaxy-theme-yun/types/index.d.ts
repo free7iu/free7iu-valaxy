@@ -76,7 +76,7 @@ export interface ThemeConfig {
     /**
      * @en Image url when dark mode
      */
-    dark?: string
+    dark: string
     /**
      * @en Image opacity
      */

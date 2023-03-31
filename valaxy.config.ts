@@ -16,7 +16,8 @@ export default defineValaxyConfig<UserThemeConfig>({
 
   themeConfig: {
     bg_image:{
-      url:'https://img.gejiba.com/images/c40b169b070eae05614a7dff1ff2fc99.webp'
+      url:'../public/img/c40b169b070eae05614a7dff1ff2fc99.webp',
+      dark:'https://cdn.yunyoujun.cn/img/bg/galaxy.jpg',
     },
     banner: {
       enable: true,
