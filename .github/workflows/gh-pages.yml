@@ -3,11 +3,17 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main
+      - gh-pages
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:s
+        node-version: [16.x]
+        os: [ubuntu-latest]
+      fail-fast: false
 
     steps:
       - uses: actions/checkout@v2
